@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> Hey there!</h1>
 
 
-<p>Welcome to my Github!</br>
+<p>Welcome to my GitHub!</br>
 
 I'm 0xSilkweave, a front-end developer and Web3 enthusiast. 
 
@@ -14,12 +14,17 @@ I'm 0xSilkweave, a front-end developer and Web3 enthusiast.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./logos/javascript-original.svg" width="36" height="42" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./logos/react-colored.svg" width="36" height="42" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./logos/html5-original.svg" width="36" height="42" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./logos/css3-original.svg" width="36" height="42" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./logos/tailwindcss-colored.svg" width="36" height="42" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./logos/bootstrap-original.svg" width="36" height="42" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./logos/nodejs-colored.svg" width="36" height="42" alt="NodeJS" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./logos/firebase-colored.svg" width="36" height="42" alt="Firebase" /></a>
+<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="./logos/alchemy-colored.svg" width="36" height="42" alt="Alchemy" /></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="./logos/hardhat-colored.svg" width="36" height="42" alt="Hardhat" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="./logos/ethereum-colored.svg" width="36" height="42" alt="Ethereum" /></a>
 </div>
 
 <p align="left">Contact:</p>
